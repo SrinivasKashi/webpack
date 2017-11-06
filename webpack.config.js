@@ -26,7 +26,7 @@ module.exports = {
             //         {
             //             loader:'babel-loader',
             //             options:{
-            //                 presers:['env']
+            //                 presets:['env']
             //             }
             //         }
             //     ]
